@@ -8,7 +8,7 @@ Réalisation d'un oscilloscope à l'aide d'une stm32 et d'une partie cpp sur Qt 
 
 Eric Rebillon
 
-Marc-Antoine Woodcock
+Marc-Antoine Woodcock : https://github.com/MarcAntoineWoodcock
 
 ## Partie C embarqué sur STM32
 Code éalisant une conversion d'un signal reçues analogique en signal numérique puis envoies par USB le signal par l'intermediaire du protocole UART
